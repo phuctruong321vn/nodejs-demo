@@ -1,0 +1,22 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "nodejs demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuctruong321vn/nodejs-demo.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "toi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phuctruong321vn/nodejs-demo/issues"
+  },
+  "homepage": "https://github.com/phuctruong321vn/nodejs-demo#readme"
+}
